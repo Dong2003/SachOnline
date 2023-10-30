@@ -1,0 +1,340 @@
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\SachOnline.dll.config
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\SachOnline.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\SachOnline.pdb
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\csc.exe
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\csc.exe.config
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\csc.rsp
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\csi.exe
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\csi.exe.config
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\csi.rsp
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.AppContext.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Console.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.IO.Compression.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Net.Http.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Net.Sockets.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.ValueTuple.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Xml.XPath.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\vbc.exe
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\vbc.exe.config
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\vbc.rsp
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\VBCSCompiler.exe
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\Antlr3.Runtime.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\Newtonsoft.Json.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.Helpers.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.Mvc.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.Optimization.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.Razor.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.WebPages.Deployment.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.WebPages.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.WebPages.Razor.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\WebGrease.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.Helpers.xml
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.Mvc.xml
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.Optimization.xml
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.Razor.xml
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.WebPages.xml
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.WebPages.Deployment.xml
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\System.Web.WebPages.Razor.xml
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\Newtonsoft.Json.xml
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\Antlr3.Runtime.pdb
+D:\HK1-3\THLTW\SachOnline\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HK1-3\THLTW\SachOnline\SachOnline\obj\Debug\SachOnline.csproj.AssemblyReference.cache
+D:\HK1-3\THLTW\SachOnline\SachOnline\obj\Debug\SachOnline.csproj.CoreCompileInputs.cache
+D:\HK1-3\THLTW\SachOnline\SachOnline\obj\Debug\SachOnline.csproj.CopyComplete
+D:\HK1-3\THLTW\SachOnline\SachOnline\obj\Debug\SachOnline.dll
+D:\HK1-3\THLTW\SachOnline\SachOnline\obj\Debug\SachOnline.pdb
+O:\LTW\SachOnline\SachOnline\bin\SachOnline.dll.config
+O:\LTW\SachOnline\SachOnline\bin\SachOnline.dll
+O:\LTW\SachOnline\SachOnline\bin\SachOnline.pdb
+O:\LTW\SachOnline\SachOnline\bin\roslyn\csc.exe
+O:\LTW\SachOnline\SachOnline\bin\roslyn\csc.exe.config
+O:\LTW\SachOnline\SachOnline\bin\roslyn\csc.rsp
+O:\LTW\SachOnline\SachOnline\bin\roslyn\csi.exe
+O:\LTW\SachOnline\SachOnline\bin\roslyn\csi.exe.config
+O:\LTW\SachOnline\SachOnline\bin\roslyn\csi.rsp
+O:\LTW\SachOnline\SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+O:\LTW\SachOnline\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+O:\LTW\SachOnline\SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+O:\LTW\SachOnline\SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.AppContext.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Collections.Immutable.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Console.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.IO.Compression.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.IO.FileSystem.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Net.Http.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Net.Sockets.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.ValueTuple.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Xml.XPath.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+O:\LTW\SachOnline\SachOnline\bin\roslyn\vbc.exe
+O:\LTW\SachOnline\SachOnline\bin\roslyn\vbc.exe.config
+O:\LTW\SachOnline\SachOnline\bin\roslyn\vbc.rsp
+O:\LTW\SachOnline\SachOnline\bin\roslyn\VBCSCompiler.exe
+O:\LTW\SachOnline\SachOnline\bin\roslyn\VBCSCompiler.exe.config
+O:\LTW\SachOnline\SachOnline\bin\Antlr3.Runtime.dll
+O:\LTW\SachOnline\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+O:\LTW\SachOnline\SachOnline\bin\Microsoft.Web.Infrastructure.dll
+O:\LTW\SachOnline\SachOnline\bin\Newtonsoft.Json.dll
+O:\LTW\SachOnline\SachOnline\bin\System.Web.Helpers.dll
+O:\LTW\SachOnline\SachOnline\bin\System.Web.Mvc.dll
+O:\LTW\SachOnline\SachOnline\bin\System.Web.Optimization.dll
+O:\LTW\SachOnline\SachOnline\bin\System.Web.Razor.dll
+O:\LTW\SachOnline\SachOnline\bin\System.Web.WebPages.Deployment.dll
+O:\LTW\SachOnline\SachOnline\bin\System.Web.WebPages.dll
+O:\LTW\SachOnline\SachOnline\bin\System.Web.WebPages.Razor.dll
+O:\LTW\SachOnline\SachOnline\bin\WebGrease.dll
+O:\LTW\SachOnline\SachOnline\bin\System.Web.Helpers.xml
+O:\LTW\SachOnline\SachOnline\bin\System.Web.Mvc.xml
+O:\LTW\SachOnline\SachOnline\bin\System.Web.Optimization.xml
+O:\LTW\SachOnline\SachOnline\bin\System.Web.Razor.xml
+O:\LTW\SachOnline\SachOnline\bin\System.Web.WebPages.xml
+O:\LTW\SachOnline\SachOnline\bin\System.Web.WebPages.Deployment.xml
+O:\LTW\SachOnline\SachOnline\bin\System.Web.WebPages.Razor.xml
+O:\LTW\SachOnline\SachOnline\bin\Newtonsoft.Json.xml
+O:\LTW\SachOnline\SachOnline\bin\Antlr3.Runtime.pdb
+O:\LTW\SachOnline\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+O:\LTW\SachOnline\SachOnline\obj\Debug\SachOnline.csproj.AssemblyReference.cache
+O:\LTW\SachOnline\SachOnline\obj\Debug\SachOnline.csproj.CoreCompileInputs.cache
+O:\LTW\SachOnline\SachOnline\obj\Debug\SachOnline.csproj.CopyComplete
+O:\LTW\SachOnline\SachOnline\obj\Debug\SachOnline.dll
+O:\LTW\SachOnline\SachOnline\obj\Debug\SachOnline.pdb
+O:\LTW\SachOnline\SachOnline\bin\EntityFramework.dll
+O:\LTW\SachOnline\SachOnline\bin\EntityFramework.SqlServer.dll
+O:\LTW\SachOnline\SachOnline\bin\EntityFramework.xml
+O:\LTW\SachOnline\SachOnline\bin\EntityFramework.SqlServer.xml
+O:\LTW\SachOnline\SachOnline\bin\PagedList.dll
+O:\LTW\SachOnline\SachOnline\bin\PagedList.Mvc.dll
+O:\LTW\SachOnline\SachOnline\bin\PagedList.xml
+O:\LTW\SachOnline\SachOnline\bin\PagedList.Mvc.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\SachOnline.dll.config
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\SachOnline.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\SachOnline.pdb
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\csc.exe
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\csc.exe.config
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\csc.rsp
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\csi.exe
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\csi.exe.config
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\csi.rsp
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.AppContext.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Collections.Immutable.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Console.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.IO.Compression.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.IO.FileSystem.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Net.Http.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Net.Sockets.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.ValueTuple.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Xml.XPath.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\vbc.exe
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\vbc.exe.config
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\vbc.rsp
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\VBCSCompiler.exe
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\VBCSCompiler.exe.config
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\Antlr3.Runtime.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\EntityFramework.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\EntityFramework.SqlServer.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\Microsoft.Web.Infrastructure.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\Newtonsoft.Json.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\PagedList.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\PagedList.Mvc.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Helpers.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Mvc.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Optimization.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Razor.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.WebPages.Deployment.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.WebPages.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.WebPages.Razor.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\WebGrease.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\EntityFramework.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\EntityFramework.SqlServer.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\PagedList.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\PagedList.Mvc.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Helpers.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Mvc.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Optimization.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Razor.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.WebPages.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.WebPages.Deployment.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.WebPages.Razor.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\Newtonsoft.Json.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\Antlr3.Runtime.pdb
+O:\GIT\SachOnline\SachOnline\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+O:\GIT\SachOnline\SachOnline\SachOnline\obj\Debug\SachOnline.csproj.AssemblyReference.cache
+O:\GIT\SachOnline\SachOnline\SachOnline\obj\Debug\SachOnline.csproj.CoreCompileInputs.cache
+O:\GIT\SachOnline\SachOnline\SachOnline\obj\Debug\SachOnline.csproj.CopyComplete
+O:\GIT\SachOnline\SachOnline\SachOnline\obj\Debug\SachOnline.dll
+O:\GIT\SachOnline\SachOnline\SachOnline\obj\Debug\SachOnline.pdb
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\SachOnline.dll.config
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\SachOnline.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\SachOnline.pdb
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\csc.exe
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\csc.exe.config
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\csc.rsp
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\csi.exe
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\csi.exe.config
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\csi.rsp
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.AppContext.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Console.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\vbc.exe
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\vbc.exe.config
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\vbc.rsp
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\Antlr3.Runtime.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\EntityFramework.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\Newtonsoft.Json.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\PagedList.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\PagedList.Mvc.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Helpers.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Mvc.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Optimization.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Razor.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.WebPages.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\WebGrease.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\EntityFramework.xml
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\PagedList.xml
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\PagedList.Mvc.xml
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Helpers.xml
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Mvc.xml
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Optimization.xml
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.Razor.xml
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.WebPages.xml
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\Newtonsoft.Json.xml
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\Antlr3.Runtime.pdb
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\obj\Debug\SachOnline.csproj.AssemblyReference.cache
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\obj\Debug\SachOnline.csproj.CoreCompileInputs.cache
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\obj\Debug\SachOnline.csproj.CopyComplete
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\obj\Debug\SachOnline.dll
+C:\Users\ĐôngHMM\OneDrive\Máy tính\GIT\SachOnline\SachOnline\SachOnline\obj\Debug\SachOnline.pdb

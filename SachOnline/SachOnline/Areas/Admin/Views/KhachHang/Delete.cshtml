@@ -1,0 +1,99 @@
+﻿@model SachOnline.Models.KHACHHANG
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<style type="text/css">
+    img {
+        width: 200px;
+        margin-bottom: 20px;
+    }
+
+    h3 {
+        color: red;
+        font-weight: bold;
+    }
+
+    h4 {
+        color: red;
+        font-weight: bold;
+    }
+</style>
+
+<h2 style="color:red">XÁC NHẬN THÔNG TIN CẦN XÓA</h2>
+<h3 style="color:red; font-weight:bold">Bạn có chắc muốn xóa khách hàng này?</h3>
+<h4 style="color:red; font-weight:bold">@Html.Raw(ViewBag.ThongBao)</h4>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên khách hàng:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HoTen)
+        </dd>
+
+        <dt>
+            Tài khoản:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TaiKhoan)
+        </dd>
+
+        <dt>
+            Mật khẩu:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MatKhau)
+        </dd>
+
+        <dt>
+            Email:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            Địa chỉ:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiaChi)
+        </dd>
+
+        <dt>
+            Số điện thoại:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DienThoai)
+        </dd>
+
+        <dt>
+            Ngày sinh:
+        </dt>
+
+        <dd>
+            @Html.FormatValue(Model.NgaySinh, "{0:dd/MM/yyyy}")
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="XÓA" class="btn btn-default" /> |
+            @Html.ActionLink("VỀ TRANG QUẢN LÝ KHÁCH HÀNG", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,50 @@
+﻿@model SachOnline.Models.NHAXUATBAN
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2 style="text-align:center">CHI TIẾT NHÀ XUẤT BẢN</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên nhà xuất bản:
+        </dt>
+
+        <dd>
+            <a style="font-size:15px;">
+                @Html.DisplayFor(model => model.TenNXB)
+            </a>
+        </dd>
+
+        <dt>
+            Địa chỉ:
+        </dt>
+
+        <dd>
+            <a style=" font-size:15px">
+                @Html.DisplayFor(model => model.DiaChi)
+            </a>
+        </dd>
+
+        <dt>
+            Số điện thoại:
+        </dt>
+
+        <dd>
+            <a style="font-size:15px">
+                @Html.DisplayFor(model => model.DienThoai)
+            </a>
+        </dd>
+
+    </dl>
+
+</div>
+
+<p>
+    @Html.ActionLink("CHỈNH SỬA", "Edit", new { id = Model.MaNXB }) |
+    @Html.ActionLink("QUAY LẠI TRANG QUẢN LÝ NHÀ XUẤT BẢN", "Index")
+</p>
