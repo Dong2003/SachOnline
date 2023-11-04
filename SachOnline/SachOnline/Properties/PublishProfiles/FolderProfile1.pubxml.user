@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>O:\LTW\PublishWeb</_PublishTargetUrl>
-    <History>True|2023-11-04T08:12:44.7882060Z;True|2023-11-04T14:34:31.3124612+07:00;True|2023-11-04T13:46:23.5443762+07:00;</History>
+    <History>True|2023-11-04T08:43:38.4379331Z;True|2023-11-04T15:12:44.7882060+07:00;True|2023-11-04T14:34:31.3124612+07:00;True|2023-11-04T13:46:23.5443762+07:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -271,10 +271,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/08/2018 12:18:16</publishTime>
     </File>
     <File Include="bin/SachOnline.dll">
-      <publishTime>11/04/2023 15:12:44</publishTime>
+      <publishTime>11/04/2023 15:43:38</publishTime>
     </File>
     <File Include="bin/SachOnline.pdb">
-      <publishTime>11/04/2023 15:12:44</publishTime>
+      <publishTime>11/04/2023 15:43:38</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
       <publishTime>05/27/2022 23:41:54</publishTime>
@@ -703,10 +703,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/09/2023 22:44:47</publishTime>
     </File>
     <File Include="Views/User/DangKy.cshtml">
-      <publishTime>11/04/2023 14:59:49</publishTime>
+      <publishTime>11/04/2023 15:23:38</publishTime>
     </File>
     <File Include="Views/User/DangNhap.cshtml">
-      <publishTime>11/04/2023 15:04:36</publishTime>
+      <publishTime>11/04/2023 15:28:55</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>09/27/2023 17:31:09</publishTime>
