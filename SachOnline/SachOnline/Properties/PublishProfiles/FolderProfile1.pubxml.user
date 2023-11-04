@@ -4,8 +4,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>O:\UPLOADWEB</_PublishTargetUrl>
-    <History>True|2023-11-04T03:52:03.9691308Z;True|2023-11-02T17:32:52.4597344+07:00;True|2023-11-02T16:24:59.6804740+07:00;</History>
+    <_PublishTargetUrl>O:\LTW\PublishWeb</_PublishTargetUrl>
+    <History>True|2023-11-04T08:12:44.7882060Z;True|2023-11-04T14:34:31.3124612+07:00;True|2023-11-04T13:46:23.5443762+07:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -271,10 +271,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/08/2018 12:18:16</publishTime>
     </File>
     <File Include="bin/SachOnline.dll">
-      <publishTime>11/04/2023 10:52:03</publishTime>
+      <publishTime>11/04/2023 15:12:44</publishTime>
     </File>
     <File Include="bin/SachOnline.pdb">
-      <publishTime>11/04/2023 10:52:03</publishTime>
+      <publishTime>11/04/2023 15:12:44</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
       <publishTime>05/27/2022 23:41:54</publishTime>
@@ -694,7 +694,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>09/27/2023 18:15:07</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
-      <publishTime>09/27/2023 17:31:09</publishTime>
+      <publishTime>11/04/2023 15:09:59</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
       <publishTime>10/29/2023 14:41:19</publishTime>
@@ -703,19 +703,19 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/09/2023 22:44:47</publishTime>
     </File>
     <File Include="Views/User/DangKy.cshtml">
-      <publishTime>10/09/2023 21:02:38</publishTime>
+      <publishTime>11/04/2023 14:59:49</publishTime>
     </File>
     <File Include="Views/User/DangNhap.cshtml">
-      <publishTime>10/29/2023 14:48:46</publishTime>
+      <publishTime>11/04/2023 15:04:36</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>09/27/2023 17:31:09</publishTime>
     </File>
     <File Include="Views/_ViewStart.cshtml">
-      <publishTime>09/27/2023 17:31:09</publishTime>
+      <publishTime>11/04/2023 14:58:59</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/04/2023 10:52:03</publishTime>
+      <publishTime>11/04/2023 14:34:31</publishTime>
     </File>
   </ItemGroup>
 </Project>
