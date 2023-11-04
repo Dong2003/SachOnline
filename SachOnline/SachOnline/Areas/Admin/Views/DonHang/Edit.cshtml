@@ -26,10 +26,12 @@
         <div class="form-group">
             <label class="control-label col-md-2">Đã thanh toán:</label>
             <div class="col-md-10">
-                <div class="checkbox">
-                    <input type="text" size="70" name="sDaThanhToan" value="@ViewBag.DaThanhToan"
-                           required />
-                </div>
+                @Html.DropDownList("sDaThanhToan", new SelectList(
+                    new List<SelectListItem>
+                    {
+                        new SelectListItem { Text = "True", Value = "true" },
+                        new SelectListItem { Text = "False", Value = "false" }
+                    }, "Value", "Text"), new { @class = "form-control" })
             </div>
         </div>
 
